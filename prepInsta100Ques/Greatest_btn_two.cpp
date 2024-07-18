@@ -8,7 +8,7 @@ int main()
     cin >> num1 >> num2;
     if (num1 == num2)
     {
-        cout << "Both the provided number is equal" << endl;
+        cout << "Both the provided number are equal" << endl;
     }
     else
     {
