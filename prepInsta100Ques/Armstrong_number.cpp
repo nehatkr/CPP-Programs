@@ -18,7 +18,7 @@ int main()
     }
 
     temp2=num;
-
+    
     while (temp2 != 0)
     {
         
