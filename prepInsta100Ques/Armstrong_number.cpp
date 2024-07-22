@@ -1,3 +1,6 @@
+// abcd… = an + bn + cn + dn + …
+// Where n is the order(length/digits in number)
+
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -39,3 +42,7 @@ int main()
 
     return 0;
 }
+
+// commands to run the code:-
+// g++ .\power_of_numbers.cpp
+// .\a.exe
