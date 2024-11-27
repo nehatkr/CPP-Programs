@@ -2,7 +2,7 @@
 // 1. replace 0 with 1 , 1 with 2 in the binary
 // 2. sum of modified binary digit is odd means its a magical number
 
-// input: 2 => 10 =>21 =>3(2+1)
+// input: 2 => 10 =>21 =>(2+1)=>3
 // output:3
 #include<iostream>
 using namespace std;
