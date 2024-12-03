@@ -22,7 +22,7 @@ using namespace std;
 
     // Copy all the elements from temp[] to arr[]
     for (int i = 0; i < n; i++)
-        arr[i] = temp[i];
+        arr[i] = temp[j];
  }
 int main(){
   vector<int> arr = {1, 2, 0, 4, 3, 0, 5, 0};
