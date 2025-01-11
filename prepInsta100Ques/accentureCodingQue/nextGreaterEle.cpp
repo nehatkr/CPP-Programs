@@ -1,3 +1,6 @@
+// using stack based approach
+// [4,5,2,25,0]
+
 #include<iostream>
 using namespace std;
 
