@@ -9,7 +9,7 @@ int evenSum(int n){
     int count=0;
     for (int i = 1; i <= n; i++)
     {
-       if(1%2==0){
+       if(i%2==0){
         count = count + i;
        }
     }
