@@ -29,7 +29,7 @@ int findCarry(int num1, int num2){
        }
        num1= num1/10; //remove the last digit after addition
     }
-    while (num1>0)
+    while (num2>0)
     {
         int sum = num2%10 + carry; //select one digit
        carry = sum/10;
