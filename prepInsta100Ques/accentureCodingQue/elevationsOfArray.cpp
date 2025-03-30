@@ -1,5 +1,5 @@
-// You have an array of length n. where the trile intially ascends then decends forming a single peek.fing the value on the peek.
-
+// You have an array of length n. where the trile intially ascends then decends forming a single peek.find the value on the peek.
+// [1,2,3,4,3,2,1]
 #include<iostream>
 using namespace std;
 #include <bits/stdc++.h>
